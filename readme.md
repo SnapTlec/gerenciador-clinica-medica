@@ -26,55 +26,55 @@ A consulta pode ser cancelada pelo médico ou paciente em até 24 horas.
 
 - Médicos:
 
-    - [] Criar médico
-    - [] Alterar médico
-    - [] Visualizar médico
-    - [] Login Médico
-    - [] Logout Médico
-    - [] Criar agenda
-    - [] Alterar agenda
-    - [] Visualizar agenda
-    - [] Desativar agenda
-    - [] Ativar agenda
-    - [] Enviar email
-    - [] Cancelar consulta
-    - [] Visualizar consulta
+    - [ ] Criar médico
+    - [ ] Alterar médico
+    - [ ] Visualizar médico
+    - [ ] Login Médico
+    - [ ] Logout Médico
+    - [ ] Criar agenda
+    - [ ] Alterar agenda
+    - [ ] Visualizar agenda
+    - [ ] Desativar agenda
+    - [ ] Ativar agenda
+    - [ ] Enviar email
+    - [ ] Cancelar consulta
+    - [ ] Visualizar consulta
 
 - Paciente:
 
-    - [] Criar paciente
-    - [] Alterar paciente
-    - [] Visualizar paciente
-    - [] Desativar paciente
-    - [] Ativar paciente
-    - [] Login Médico
-    - [] Logout Médico
-    - [] Buscar médico
-    - [] Buscar agenda
-    - [] Enviar email
-    - [] Cancelar consulta
-    - [] Criar consulta
-    - [] Alterar consulta
-    - [] Visualizar consultas
+    - [ ] Criar paciente
+    - [ ] Alterar paciente
+    - [ ] Visualizar paciente
+    - [ ] Desativar paciente
+    - [ ] Ativar paciente
+    - [ ] Login Médico
+    - [ ] Logout Médico
+    - [ ] Buscar médico
+    - [ ] Buscar agenda
+    - [ ] Enviar email
+    - [ ] Cancelar consulta
+    - [ ] Criar consulta
+    - [ ] Alterar consulta
+    - [ ] Visualizar consultas
 
 - Secretária:
     
-    - [] Criar paciente
-    - [] Visualizar paciente
-    - [] Ativar paciente
-    - [] Visualizar médico
-    - [] Ativar médico
-    - [] Buscar médico
-    - [] Buscar paciente
-    - [] Cancelar consulta
-    - [] Marcar consulta
-    - [] Buscar agenda
-    - [] Incluir convenío
-    - [] Alterar convenío
-    - [] Desativar convenío
-    - [] Buscar convenío
-    - [] Ativar convenío
-    - [] Enviar email
+    - [ ] Criar paciente
+    - [ ] Visualizar paciente
+    - [ ] Ativar paciente
+    - [ ] Visualizar médico
+    - [ ] Ativar médico
+    - [ ] Buscar médico
+    - [ ] Buscar paciente
+    - [ ] Cancelar consulta
+    - [ ] Marcar consulta
+    - [ ] Buscar agenda
+    - [ ] Incluir convenío
+    - [ ] Alterar convenío
+    - [ ] Desativar convenío
+    - [ ] Buscar convenío
+    - [ ] Ativar convenío
+    - [ ] Enviar email
 
 
 
