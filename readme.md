@@ -1,6 +1,6 @@
 # Clínica médica
 
-Ideia from universidade vila velha (UVV)
+Ideia from universidade vila velha ([UVV](https://www.uvv.br))
 
 Seja uma clínica médica especializada que deseja implantar um serviço para agendamento de consultas online.
 
@@ -18,11 +18,10 @@ A consulta pode ser cancelada pelo médico ou paciente em até 24 horas.
  
  - Médico
  - Paciente
- - Agenda
  - Secretária
- - Administrador
+ - Impressora
 
- # Requisitos
+ # Requisitos funcionais
 
 - Médicos:
 
@@ -76,8 +75,18 @@ A consulta pode ser cancelada pelo médico ou paciente em até 24 horas.
     - [ ] Ativar convenío
     - [ ] Enviar email
 
+- Impressora:
 
+    - [ ] Criar impressora
+    - [ ] Alterar impressora
+    - [ ] Excluir impressora
+    - [ ] Buscar impressora
+    - [ ] Visualizar impressora
 
+# Diagrama de classe - UML
+Diagramação from [Visual Paradigm.](https://online.visual-paradigm.com/pt/diagrams/features/uml-tool/)
+
+![Diagrama classe UML!](assets/diagrama-classes-uml-gerenciador-clinica-medica_v1-atributos.svg)
 
 
 
