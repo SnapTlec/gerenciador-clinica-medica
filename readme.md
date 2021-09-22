@@ -16,7 +16,7 @@ A consulta pode ser cancelada pelo médico ou paciente em até 24 horas.
 
 # Atores
 
-  - <a style="text-decoration:none;color:var(--color-fg-default);" href="#médicos">Médico</a><br>
+  - <a style="text-decoration:none;color:var(--color-text-primary);" href="#médicos">Médico</a><br>
   - <a style="text-decoration:none;color:var(--color-fg-default);"  href="#paciente">Paciente</a><br>
   - <a style="text-decoration:none;color:var(--color-fg-default);" href="#secretária">Secretária</a><br>
   - <a style="text-decoration:none;color:var(--color-fg-default);"  href="#impressora">Impressora</a>
