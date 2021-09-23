@@ -26,11 +26,11 @@ A consulta pode ser cancelada pelo médico ou paciente em até 24 horas.
 
 ### Médicos:
 
-- [ ] Criar médico
-- [ ] Alterar médico
-- [ ] Visualizar médico
-- [ ] Login Médico
-- [ ] Logout Médico
+- [ ] Criar
+- [ ] Alterar
+- [ ] Visualizar
+- [ ] Login
+- [ ] Logout
 - [ ] Criar agenda
 - [ ] Alterar agenda
 - [ ] Visualizar agenda
@@ -42,13 +42,13 @@ A consulta pode ser cancelada pelo médico ou paciente em até 24 horas.
 
 ### Paciente:
 
-- [ ] Criar paciente
-- [ ] Alterar paciente
-- [ ] Visualizar paciente
-- [ ] Desativar paciente
-- [ ] Ativar paciente
-- [ ] Login Médico
-- [ ] Logout Médico
+- [ ] Criar
+- [ ] Alterar 
+- [ ] Visualizar 
+- [ ] Desativar
+- [ ] Ativar
+- [ ] Login
+- [ ] Logout
 - [ ] Buscar médico
 - [ ] Buscar agenda
 - [ ] Enviar email
@@ -62,7 +62,7 @@ A consulta pode ser cancelada pelo médico ou paciente em até 24 horas.
 - [ ] Criar paciente
 - [ ] Visualizar paciente
 - [ ] Ativar paciente
-- [ ] Visualizar médico
+- [ ] Visualizar
 - [ ] Ativar médico
 - [ ] Buscar médico
 - [ ] Buscar paciente
@@ -78,11 +78,11 @@ A consulta pode ser cancelada pelo médico ou paciente em até 24 horas.
 
 ### Impressora:
 
-- [ ] Criar impressora
-- [ ] Alterar impressora
-- [ ] Excluir impressora
-- [ ] Buscar impressora
-- [ ] Visualizar impressora
+- [ ] Criar
+- [ ] Alterar
+- [ ] Excluir
+- [ ] Buscar
+- [ ] Visualizar
 
 # Diagrama de classe - UML
 
